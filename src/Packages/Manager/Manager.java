@@ -1,8 +1,5 @@
 package Manager;
 
-
-
-*/
 public class Manager extends Employee {
     
     

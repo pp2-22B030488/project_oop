@@ -1,0 +1,941 @@
+--=( WARNINGS )=--
+
+Result Report:
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4e039ada (name: submitProject, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@654791a1 (name: allocateFunds, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@26477b21 (name: requestFeedback, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6cf10420 (name: writeFeedback(), visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2a32bafd (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5fcb47d8 (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@16ea2410 (name: signToRequestsRector, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@570e31e0 (name: viewFacultyReports, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@67ce3c15 (name: setStrategicGoals, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2d71dfc3 (name: viewAlumniRelations, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6a7ca4d9 (name: makePublicAnnouncements, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4cdb1947 (name: approveSchoolEvents, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5ae3aa5d (name: getInstance, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2f672a56 (name: viewStudentInfo, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6828fa6 (name: viewCourse, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4d5cd258 (name: manageCourse, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5c90f276 (name: sendOrder, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6f734f9e (name: signToRequestsDean, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@27fc8eb (name: getComplaints, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@434df8ec (name: viewSchoolReports, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4e6d4674 (name: makeSchoolAnnouncements, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@73703cc1 (name: changeLocation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3d8a36c6 (name: changeTime, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4cebbf74 (name: setTeacher, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5d44cc14 (name: countCredits, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4ddd7317 (name: viewNewOrders, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1ec04caf (name: acceptOrders, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3b5001fb (name: rejectOrders, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1d14530d (name: getMessage, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@36098f45 (name: viewRequests, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@33788038 (name: createReports, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@49f142b5 (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@142cfa41 (name: AnnounceResearchPaper, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@77c687ff (name: manageEvents, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@8a01b88 (name: addStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@68fa73b1 (name: removeStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4f9a3c26 (name: viewStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4ec88b2d (name: viewStudentInfo, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@634b4f0f (name: viewCourse, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1161bbe2 (name: manageCourse, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@70e8ce90 (name: sendOrder, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@272eac76 (name: manageEvents, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1a40ab62 (name: addStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2569f9f1 (name: removeStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1d1a161b (name: viewStaffMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5001edeb (name: sendSchoolReposts, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4ba06f9f (name: addFacultyMember, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@348d203e (name: removeFacultyMember, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@baff4ec (name: viewFacultyMembers, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5bc9a1da (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5e16570b (name: viewOrders, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6e90d066 (name: removeCourses, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@123e3c55 (name: closeRegistration, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@6154b48e (name: openRegistration, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1e04b189 (name: , visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@160bd71b (name: generateAnnouncement, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@752fe982 (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4e1c8657 (name: viewOnlyResearch, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@31d1626b (name: viewRequests, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4f80cb6 (name: createReports, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3e80f478 (name: operation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@26789f52 (name: AnnounceResearchPaper, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@621af0a5 (name: ChangePassword, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3fdd6811 (name: getMessage, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@137fbcef (name: Attendance, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5b98dd7e (name: RegistrationForDisciplines, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@604a858f (name: g, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3c3f2e08 (name: writeComments, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@2368df4 (name: Attendance, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@16587857 (name: RegistrationForDisciplines, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@5d1d3c4d (name: g, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@105a2c48 (name: writeComments, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@1e884654 (name: defendThesis, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@3c3b2bf2 (name: attendConference, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4a1e50c6 (name: countCredits, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@74044504 (name: changeLocation, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@57bb0388 (name: changeTime, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@114f724 (name: setTeacher, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@4f5896c9 (name: addBonusPoint, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@45365457 (name: putPoint, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@7761bc93 (name: showTranscript, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@614716dd (name: getTranscript, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@558f8e77 (name: getWeekDays, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@58d3450 (name: getWeekDays, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+	EvaluationException: Undefined "Let" expression at line 129 in Module simpleUML2java for block let ret : Type = o.getReturnResult().type. Last recorded value of self was org.eclipse.uml2.uml.internal.impl.OperationImpl@736acf4d (name: getWeekDays, visibility: public) (isLeaf: false, isStatic: false, concurrency: sequential, isAbstract: false) (isQuery: false).
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:129)
+	at simpleUML2java.generate(Operation)(simpleUML2java.mtl:128)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:0)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:39)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:19)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:16)
+	at simpleUML2java.generate(Class)(simpleUML2java.mtl:14)
+
+
+
+

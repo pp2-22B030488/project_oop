@@ -1,183 +1,99 @@
-package Packages;
+package FromUser;
 
+import java.util.Date;
 
-/**
-* @generated
-*/
-public class Message {
-    
-    /**
-    * @generated
-    */
+public class Message extends Employee{
+
     private Integer ID;
-    
-    /**
-    * @generated
-    */
     private Date DateOfSend;
-    
-    /**
-    * @generated
-    */
     private String Text;
-    
-    /**
-    * @generated
-    */
     private User Author;
-    
-    /**
-    * @generated
-    */
     private String Category;
-    
-    /**
-    * @generated
-    */
-    private list Priority;
-    
-    /**
-    * @generated
-    */
+    private UrgencyLevel Priority;
     private StatusType Status;
-    
-    /**
-    * @generated
-    */
     private UrgencyLevel UrgencyLevel;
-    
-    
-    
-    /**
-    * @generated
-    */
+
+    public enum UrgencyLevel {
+        LOW,
+        MEDIUM,
+        HIGH
+    }
+
+    public enum StatusType {
+        OPEN,
+        CLOSED,
+        PENDING
+    }
+
     public Integer getID() {
         return this.ID;
     }
-    
-    /**
-    * @generated
-    */
-    public Integer setID(Integer ID) {
+
+    public void setID(Integer ID) {
         this.ID = ID;
     }
-    
-    /**
-    * @generated
-    */
+
     public Date getDateOfSend() {
         return this.DateOfSend;
     }
-    
-    /**
-    * @generated
-    */
-    public Date setDateOfSend(Date DateOfSend) {
+
+    public void setDateOfSend(Date DateOfSend) {
         this.DateOfSend = DateOfSend;
     }
-    
-    /**
-    * @generated
-    */
+
     public String getText() {
         return this.Text;
     }
-    
-    /**
-    * @generated
-    */
-    public String setText(String Text) {
+
+    public void setText(String Text) {
         this.Text = Text;
     }
-    
-    /**
-    * @generated
-    */
+
     public User getAuthor() {
         return this.Author;
     }
-    
-    /**
-    * @generated
-    */
-    public User setAuthor(User Author) {
+
+    public void setAuthor(User Author) {
         this.Author = Author;
     }
-    
-    /**
-    * @generated
-    */
+
     public String getCategory() {
         return this.Category;
     }
-    
-    /**
-    * @generated
-    */
-    public String setCategory(String Category) {
+
+    public void setCategory(String Category) {
         this.Category = Category;
     }
-    
-    /**
-    * @generated
-    */
-    public list getPriority() {
+
+    public UrgencyLevel getPriority() {
         return this.Priority;
     }
-    
-    /**
-    * @generated
-    */
-    public list setPriority(list Priority) {
+
+    public void setPriority(UrgencyLevel Priority) {
         this.Priority = Priority;
     }
-    
-    /**
-    * @generated
-    */
+
     public StatusType getStatus() {
         return this.Status;
     }
-    
-    /**
-    * @generated
-    */
-    public StatusType setStatus(StatusType Status) {
+
+    public void setStatus(StatusType Status) {
         this.Status = Status;
     }
-    
-    /**
-    * @generated
-    */
+
     public UrgencyLevel getUrgencyLevel() {
         return this.UrgencyLevel;
     }
-    
-    /**
-    * @generated
-    */
-    public UrgencyLevel setUrgencyLevel(UrgencyLevel UrgencyLevel) {
+
+    public void setUrgencyLevel(UrgencyLevel UrgencyLevel) {
         this.UrgencyLevel = UrgencyLevel;
     }
-    
 
-    //                          Operations                                  
-    
-    /**
-    * @generated
-    */
     public double calculateRating() {
-        //TODO
         return 0.0;
     }
-    
-    /**
-    * @generated
-    */
-    public newStatus changeStatus() {
-        //TODO
+
+    public StatusType changeStatus() {
         return null;
     }
-    
-    
 }

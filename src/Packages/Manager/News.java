@@ -1,268 +1,68 @@
-package Packages;
+package Manager;
 
 
-/**
-* @generated
-*/
-public class News extends Researcher {
-    
-    /**
-    * @generated
-    */
+import java.util.Date;
+import java.util.List;
+
+public class News extends Manager{
+
     private String headline;
-    
-    /**
-    * @generated
-    */
-    private list string content;
-    
-    /**
-    * @generated
-    */
+    private List<String> content;
     private Date publicationDate;
-    
-    /**
-    * @generated
-    */
-    private xорошо не тронем еще не закончила, не трогать!;
-    
-    /**
-    * @generated
-    */
     private String topic;
-    
-    /**
-    * @generated
-    */
-    private list string pinned;
-    
-    /**
-    * @generated
-    */
-    private Boolean ;
-    
-    /**
-    * @generated
-    */
-    private list string2 comments;
-    
-    /**
-    * @generated
-    */
-    private Researcher researcher;
-    
-    /**
-    * @generated
-    */
-    private list Researcher topCitedResearchers;
-    
-    /**
-    * @generated
-    */
-    private String category;
-    
-    
-    /**
-    * @generated
-    */
-    private Manager manager;
-    
-    
-    /**
-    * @generated
-    */
-    public String getHeadline() {
-        return this.headline;
+    private List<String> pinned;
+    private List<String> comments;
+    private List<Researcher> topCitedResearchers;
+    private Category category;
+
+    public enum Category {
+        
+        SCIENCE,
+        STUDY,
+        SOCIAL
+        
     }
+
     
-    /**
-    * @generated
-    */
-    public String setHeadline(String headline) {
+
+    public News(String headline, List<String> content, Date publicationDate, String topic,
+                List<String> pinned, List<String> comments, List<Researcher> topCitedResearchers, Category category) {
         this.headline = headline;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string getContent() {
-        return this.content;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string setContent(list string content) {
         this.content = content;
-    }
-    
-    /**
-    * @generated
-    */
-    public Date getPublicationDate() {
-        return this.publicationDate;
-    }
-    
-    /**
-    * @generated
-    */
-    public Date setPublicationDate(Date publicationDate) {
         this.publicationDate = publicationDate;
-    }
-    
-    /**
-    * @generated
-    */
-    public xорошо не тронем getЕще не закончила, не трогать!() {
-        return this.еще не закончила, не трогать!;
-    }
-    
-    /**
-    * @generated
-    */
-    public xорошо не тронем setЕще не закончила, не трогать!(xорошо не тронем еще не закончила, не трогать!) {
-        this.еще не закончила, не трогать! = еще не закончила, не трогать!;
-    }
-    
-    /**
-    * @generated
-    */
-    public String getTopic() {
-        return this.topic;
-    }
-    
-    /**
-    * @generated
-    */
-    public String setTopic(String topic) {
         this.topic = topic;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string getPinned() {
-        return this.pinned;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string setPinned(list string pinned) {
         this.pinned = pinned;
-    }
-    
-    /**
-    * @generated
-    */
-    public Boolean get() {
-        return this.;
-    }
-    
-    /**
-    * @generated
-    */
-    public Boolean set(Boolean ) {
-        this. = ;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string2 getComments() {
-        return this.comments;
-    }
-    
-    /**
-    * @generated
-    */
-    public list string2 setComments(list string2 comments) {
         this.comments = comments;
-    }
-    
-    /**
-    * @generated
-    */
-    public Researcher getResearcher() {
-        return this.researcher;
-    }
-    
-    /**
-    * @generated
-    */
-    public Researcher setResearcher(Researcher researcher) {
-        this.researcher = researcher;
-    }
-    
-    /**
-    * @generated
-    */
-    public list Researcher getTopCitedResearchers() {
-        return this.topCitedResearchers;
-    }
-    
-    /**
-    * @generated
-    */
-    public list Researcher setTopCitedResearchers(list Researcher topCitedResearchers) {
         this.topCitedResearchers = topCitedResearchers;
-    }
-    
-    /**
-    * @generated
-    */
-    public String getCategory() {
-        return this.category;
-    }
-    
-    /**
-    * @generated
-    */
-    public String setCategory(String category) {
         this.category = category;
     }
-    
 
-    //                          Operations                                  
-    
-    /**
-    * @generated
-    */
-    public void prioritizeNews() {
-        //TODO
+    public void generateTopCitedNews(Category category) {
+        if (category == Category.SCIENCE) {
+            
+            System.out.println("Top Cited News generated for the Science category.");
+        } else {
+            System.out.println("Top Cited News generation is not supported for this category.");
+        }
     }
-    
-    /**
-    * @generated
-    */
+
     public boolean isAnnouncement() {
-        //TODO
+        
         return false;
     }
-    
-    /**
-    * @generated
-    */
-    public void generateTopCitedNews() {
-        //TODO
-        return null;
+
+    public void generateAnnouncement() {
+       
+        System.out.println("Announcement generated.");
     }
-    
-    /**
-    * @generated
-    */
-    public String () {
-        //TODO
-        return "";
+
+    public void viewOnlyResearch() {
+        
+        System.out.println("Viewing only research news.");
     }
-    
-    /**
-    * @generated
-    */
-    public boolean isAnnouncement() {
-        //TODO
-        return false;
+
+    public void prioritizeAsTopCited() {
+        
+        System.out.println("News prioritized as the 1st place in top cited.");
     }
-    
-    
 }

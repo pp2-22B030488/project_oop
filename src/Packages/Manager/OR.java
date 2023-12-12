@@ -1,123 +1,68 @@
-package Packages;
+package Manager;
 
 
-/**
-* @generated
-*/
-public class OR extends ManagerManager {
-    
-    /**
-    * @generated
-    */
-    private Set<Requests> listOfRequestOR;
-    
-    /**
-    * @generated
-    */
-    private Set<Course> coursesAvailable;
-    
-    /**
-    * @generated
-    */
-    private Date registrationPeriod;
-    
-    /**
-    * @generated
-    */
+impORt java.util.ArrayList;
+impORt java.util.Date;
+impORt java.util.List;
+
+public class OR extends Manager {
+
+    private List<Request> listOfRequestOR;
+    private List<Course> coursesAvailable;
+    private Date registrationPeriodStartDate;
+    private Date registrationPeriodEndDate;
     private List<Student> registeredStudents;
-    
-    
-    
-    /**
-    * @generated
-    */
-    public Set<Requests> getListOfRequestOR() {
-        return this.listOfRequestOR;
-    }
-    
-    /**
-    * @generated
-    */
-    public Set<Requests> setListOfRequestOR(Set<Requests> listOfRequestOR) {
-        this.listOfRequestOR = listOfRequestOR;
-    }
-    
-    /**
-    * @generated
-    */
-    public Set<Course> getCoursesAvailable() {
-        return this.coursesAvailable;
-    }
-    
-    /**
-    * @generated
-    */
-    public Set<Course> setCoursesAvailable(Set<Course> coursesAvailable) {
-        this.coursesAvailable = coursesAvailable;
-    }
-    
-    /**
-    * @generated
-    */
-    public Date getRegistrationPeriod() {
-        return this.registrationPeriod;
-    }
-    
-    /**
-    * @generated
-    */
-    public Date setRegistrationPeriod(Date registrationPeriod) {
-        this.registrationPeriod = registrationPeriod;
-    }
-    
-    /**
-    * @generated
-    */
-    public List<Student> getRegisteredStudents() {
-        return this.registeredStudents;
-    }
-    
-    /**
-    * @generated
-    */
-    public List<Student> setRegisteredStudents(List<Student> registeredStudents) {
-        this.registeredStudents = registeredStudents;
-    }
-    
 
-    //                          Operations                                  
-    
-    /**
-    * @generated
-    */
-    public Set<Course> addCourses() {
-        //TODO
-        return null;
+    public OR() {
+        this.listOfRequestOR = new ArrayList<>();
+        this.coursesAvailable = new ArrayList<>();
+        this.registeredStudents = new ArrayList<>();
     }
-    
-    /**
-    * @generated
-    */
-    public Teacher assignCourses() {
-        //TODO
-        return null;
+
+
+    public void viewORders() {
+        for (Request request : listOfRequestOR) {
+            System.out.println(request);
+        }
     }
-    
-    /**
-    * @generated
-    */
-    public boolean approveRegistration() {
-        //TODO
-        return false;
+
+    public void addCourses(List<Course> courses) {
+        coursesAvailable.addAll(courses);
     }
-    
-    /**
-    * @generated
-    */
-    public void setRegistrationPeriod() {
-        //TODO
-        return null;
+
+    public void removeCourses(List<Course> courses) {
+        coursesAvailable.removeAll(courses);
     }
+
     
+    public void assignCourses(Student student, List<Course> courses) {
+        
+        student.getCourses().addAll(courses);
+    }
+
+  
+    public void approveRegistration(Student student) {
+        
+        registeredStudents.add(student);
+        System.out.println("Registration approved for student: " + student.getName());
+    }
+
+   
+    public void setRegistrationPeriod(Date startDate, Date endDate) {
+        this.registrationPeriodStartDate = startDate;
+        this.registrationPeriodEndDate = endDate;
+        System.out.println("Registration period set from " + startDate + " to " + endDate);
+    }
+
     
+    public void closeRegistration() {
+        System.out.println("Registration closed.");
+    }
+
+    
+    public void openRegistration() {
+        System.out.println("Registration opened.");
+    }
+
+   
 }

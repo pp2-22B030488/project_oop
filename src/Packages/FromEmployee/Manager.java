@@ -1,76 +1,44 @@
-package Packages;
+package fromEmployee;
+
+import java.util.Date;
+import java.util.Vector;
+import fromUser.Message;
+import fromUser.User;
 
 
-/**
-* @generated
-*/
-public class Manager extends Employee {
-    
-    /**
-    * @generated
-    */
-    private Course Allcourses;
-    
-    /**
-    * @generated
-    */
-    private List<Student> AllStudents;
-    
-    
-    
-    /**
-    * @generated
-    */
-    public Course getAllcourses() {
-        return this.Allcourses;
+public class Employee extends User {
+	private Vector<Message> receiveMessages;
+    private double salary;
+    private Date hireDate;
+	
+    public Employee(fromUser.UserType UserType, String ID, String FirstName, String LastName, String Email,
+			String Password, int PhoneNumber, double salary, Date hireDate) {
+		super(UserType, ID, FirstName, LastName, Email, Password, PhoneNumber);
+			this.hireDate = new Date();
+			this.salary = salary;
     }
     
-    /**
-    * @generated
-    */
-    public Course setAllcourses(Course Allcourses) {
-        this.Allcourses = Allcourses;
+    public Vector<Message> getReceiveMessages() {
+        return this.receiveMessages;
     }
-    
-    /**
-    * @generated
-    */
-    public List<Student> getAllStudents() {
-        return this.AllStudents;
+    public void setReceiveMessages(Vector<Message> receiveMessages) {
+        this.receiveMessages = receiveMessages;
     }
-    
-    /**
-    * @generated
-    */
-    public List<Student> setAllStudents(List<Student> AllStudents) {
-        this.AllStudents = AllStudents;
+    public Double getSalary() {
+        return this.salary;
     }
-    
+    public void setSalary(Double Salary) {
+        this.salary = Salary;
+    }
+    public Date getHireDate() {
+        return this.hireDate;
+    }
+    public void setHireDate(Date hireDate) {
+        this.hireDate = hireDate;
+    }
 
-    //                          Operations                                  
     
-    /**
-    * @generated
-    */
-    public Set<News> manageNews() {
-        //TODO
-        return null;
-    }
-    
-    /**
-    * @generated
-    */
-    public Vector<Student> infoStudent() {
-        //TODO
-        return null;
-    }
-    
-    /**
-    * @generated
-    */
-    public Vector<Teacher> infoTeacher() {
-        //TODO
-        return null;
+    public void SendMessage() {
     }
     
     
